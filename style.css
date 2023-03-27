@@ -1,0 +1,20 @@
+html, body {
+  cursor: none;
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  position: absolute;
+  pointer-events: none;
+}
+.menuButton {
+  position: absolute;
+  cursor: none;
+  z-index: -1;
+}
+
+.retryButton {
+  position: absolute;
+  cursor: none;
+  z-index: -1;
+}
